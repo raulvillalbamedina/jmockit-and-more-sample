@@ -1,2 +1,2 @@
-# jmockit-and-more-sample
-Testing con Jmockit, Podam y Data-Faker
+# mockito-and-more-sample
+Testing con Mockito, Podam y Data-Faker
