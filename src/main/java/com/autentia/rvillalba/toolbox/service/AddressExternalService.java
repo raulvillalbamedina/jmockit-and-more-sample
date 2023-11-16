@@ -1,4 +1,4 @@
-package com.autentia.rvillalba.toolbox.services;
+package com.autentia.rvillalba.toolbox.service;
 
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package com.autentia.rvillalba.toolbox.controllers;
+package com.autentia.rvillalba.toolbox.controller;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
@@ -10,7 +10,7 @@ import org.mockito.junit.jupiter.MockitoExtension;
 
 import com.autentia.rvillalba.toolbox.utils.ToolboxPodamFactory;
 import com.autentia.rvillalba.toolbox.api.SampleResponse;
-import com.autentia.rvillalba.toolbox.services.ToolboxService;
+import com.autentia.rvillalba.toolbox.service.ToolboxService;
 
 import net.datafaker.Faker;
 import uk.co.jemos.podam.api.PodamFactory;
